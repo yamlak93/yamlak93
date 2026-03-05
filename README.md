@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Yeamlak Firew 👋
 
-<!--
-**yamlak93/yamlak93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about system analysis, backend development, and building real-world digital solutions.
 
-Here are some ideas to get you started:
+## Skills
+- System Analysis
+- Business Requirements Gathering
+- JavaScript
+- React
+- Node.js
+- MySQL
+- Git & GitHub
+- Software Testing
+- SRS
+- Analytical Skill
+- Team work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### AgriLink Ethiopia
+A platform connecting farmers, buyers, and agricultural experts.
+
+Features:
+- Product listing
+- Order management
+- User roles
+- Market access
+
+Technologies:
+React, Node.js, MySQL
+
+
+### Exam Management System
+A web-based system for managing exams and multiple-choice questions.
+
+Features:
+- Exam registration
+- Question management
+- Database storage
+
+Technologies:
+PHP, MySQL, JavaScript
+
+## And other projects...
+
+---
+
+## Contact
+LinkedIn: www.linkedin.com/in/yeamlak-firew
+Email: yamlak93@gmail.com
+Phone: +251921771273
