@@ -1,6 +1,6 @@
 # Hi, I'm Yeamlak Firew 👋
 
-Computer Science student passionate about system analysis, backend development, and building real-world digital solutions.
+Computer Science graduate passionate about system analysis, backend development, and building real-world digital solutions.
 
 ## Skills
 - System Analysis
